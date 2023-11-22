@@ -9,7 +9,7 @@ const users = [
     },
     {
       userName: 'pheralb',
-      name: 'Pablo H.',
+      name: 'Pablo Herald',
       isFollowing: false
     },
     {
